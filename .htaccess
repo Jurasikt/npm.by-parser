@@ -1,0 +1,6 @@
+Options -Indexes
+
+<Files .*>
+    Order Deny,Allow
+    Deny From All
+</Files>

@@ -1,0 +1,8 @@
+mailoutput/
+input.txt
+output.txt
+*.phar
+*.png
+.npm.db
+test.php
+phar.php
